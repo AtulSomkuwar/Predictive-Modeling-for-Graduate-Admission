@@ -15,3 +15,8 @@ Supervised Learning ----> Linear Regression and Polynomial regression
 <img width="853" height="632" alt="Screenshot 2026-03-29 104450" src="https://github.com/user-attachments/assets/eee27e33-f246-40e9-ad54-772d57defc80" />
 
 Unsupervised learning ----> KNN
+## For k = 5 neighbours checking the max accuracy for k values in range (1-20)
+<img width="702" height="512" alt="Screenshot 2026-03-29 104738" src="https://github.com/user-attachments/assets/9090ce7b-8ce1-412f-a829-a5ee00926945" />
+
+## Acuuracy Vs Number of Neighbours
+<img width="298" height="488" alt="Screenshot 2026-03-29 104701" src="https://github.com/user-attachments/assets/660538c6-842b-4266-babf-7b2313ca6552" />
